@@ -2,4 +2,8 @@ rootProject.name = 'DesignPatterns'
 include 'AbstractFactoryDP'
 include 'FacadeDP'
 include 'AdapterDP'
+include 'CompositeDP'
+include 'DecoratorDP'
+include 'ProxyDP'
+include 'ObserverDP'
 
