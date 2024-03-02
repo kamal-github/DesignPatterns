@@ -1,4 +1,5 @@
 rootProject.name = 'DesignPatterns'
 include 'AbstractFactoryDP'
 include 'FacadeDP'
+include 'AdapterDP'
 
