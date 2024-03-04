@@ -7,4 +7,7 @@ include 'DecoratorDP'
 include 'ProxyDP'
 include 'ObserverDP'
 include 'CommandDP'
+include 'StateDP'
+include 'TemplateMethodDP'
+include 'ChainOfResponsibilityDP'
 
