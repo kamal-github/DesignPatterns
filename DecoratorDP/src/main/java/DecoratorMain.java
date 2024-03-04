@@ -40,7 +40,7 @@ class RedShapeDecorator extends ShapeDecorator {
 
     @Override
     public void draw() {
-        decoratedShape.draw();
+        super.draw();
         setRedBorder(decoratedShape);
     }
 
@@ -57,7 +57,7 @@ class BlueShapeDecorator extends ShapeDecorator {
 
     @Override
     public void draw() {
-        decoratedShape.draw();
+        super.draw();
         setBlueBorder(decoratedShape);
     }
 

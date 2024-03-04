@@ -6,4 +6,5 @@ include 'CompositeDP'
 include 'DecoratorDP'
 include 'ProxyDP'
 include 'ObserverDP'
+include 'CommandDP'
 
